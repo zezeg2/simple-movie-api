@@ -1,0 +1,23 @@
+{
+  "name": "tweetql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.10.2",
+    "eslint": "8.22.0",
+    "graphql": "^16.6.0",
+    "node-fetch": "^3.2.10",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "type": "module"
+}
